@@ -13,3 +13,5 @@
 2. Run `npm install` to install the dependencies.
 
 3. Run `npm run estimate` to estimate the gas cost for the transaction.
+
+The gas cost is around 429,405 gas. With 10% buffer, the gas cost is around 472,345 gas.
